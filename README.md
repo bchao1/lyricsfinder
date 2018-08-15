@@ -1,6 +1,6 @@
 # lyricsfinder
 
-A desktop application for lazy people who don't want to open a browser to download lyrics.
+A lightweight desktop application for lazy people who don't want to open a browser to download lyrics.
 
 ## Getting Started
 
@@ -38,6 +38,10 @@ Go to the directory, and type on the terminal:
 ```
 python3 lyricsfinder.py
 ```
+You should see the following interface
+![alt welcome page](https://github.com/Mckinsey666/lyricsfinder/blob/master/docs/1.png)
+
+
 
 
 
